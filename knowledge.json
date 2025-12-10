@@ -1,0 +1,137 @@
+{
+  "institute_info": {
+    "name": "Bapuji Institute of Engineering & Technology",
+    "established": "1979",
+    "location": "Davangere, Karnataka",
+    "affiliation": "Visvesvaraya Technological University (VTU)",
+    "accreditation": "NAAC 'A' Grade, NBA Accredited",
+    "campus_size": "26 acres"
+  },
+  
+  "admissions": [
+    "🎓 **UG Admissions**: Through Karnataka CET/COMEDK scores",
+    "📝 **Application Period**: March to June every year",
+    "💻 **MCA Admissions**: Karnataka students - PGCET | Others - KMAT",
+    "⚙️ **M.Tech Admissions**: GATE or Karnataka PGCET scores",
+    "🔁 **Lateral Entry**: Diploma holders can join directly into 2nd year B.E",
+    "📋 **Eligibility**: 45% marks in 10+2 for general category",
+    "💵 **Application Fee**: ₹500 for general category"
+  ],
+
+  "courses": [
+    "💻 **B.E Programs**: Computer Science, Electronics, Mechanical, Civil, Electrical, Chemical, Biotechnology, Textile",
+    "🎯 **PG Programs**: M.Tech (Various specializations), MCA, MBA",
+    "⏱️ **MCA Duration**: 2 years (4 semesters)",
+    "📚 **MBA Specializations**: Finance, Marketing, HR, Operations",
+    "🔬 **M.Tech Specializations**: CSE, VLSI, Power Systems, Machine Design"
+  ],
+
+  "fee_structure": [
+    "💰 **B.E Fee**: ₹60,000 - ₹90,000 per year",
+    "💳 **M.Tech Fee**: ₹80,000 - ₹1,20,000 per year",
+    "💻 **MCA Fee**: ₹1,17,000 - ₹1,70,000 for 2 years",
+    "🎓 **MBA Fee**: ₹1,00,000 - ₹1,50,000 per year",
+    "🏠 **Hostel Fee**: ₹40,000 per year (including mess)",
+    "📖 **Other Charges**: ₹15,000 per year (library, lab, etc)"
+  ],
+
+  "placements": [
+    "💼 **Placement Rate**: 90%+ every year",
+    "🏢 **Top Recruiters**: Infosys, TCS, Wipro, Accenture, Capgemini, Cognizant, Bosch",
+    "📈 **Average Package**: ₹5-7 LPA",
+    "🚀 **Highest Package**: ₹12+ LPA",
+    "🎯 **Training Programs**: Aptitude training, coding tests, GD, mock interviews",
+    "🤝 **Internship Opportunities**: 6-month industry internships"
+  ],
+
+  "facilities": [
+    "🏫 **Campus**: 26-acre lush green campus with modern infrastructure",
+    "📚 **Library**: 1,00,000+ volumes, digital resources, IEEE journals",
+    "💻 **Labs**: State-of-the-art computing and research laboratories",
+    "🏠 **Hostel**: Separate hostels for boys and girls with WiFi, mess",
+    "⚽ **Sports**: Cricket, football, basketball grounds, gymnasium",
+    "🍽️ **Cafeteria**: Hygienic canteens with North & South Indian food",
+    "🏥 **Medical**: Health center with full-time doctor"
+  ],
+
+  "departments": [
+    "💻 **Computer Science & Engineering** - Dr. Nirmala C R (HOD)",
+    "📡 **Electronics & Communication** - Dr. S Ramesh (HOD)",
+    "⚙️ **Mechanical Engineering** - Dr. Manjunath (HOD)",
+    "🏗️ **Civil Engineering** - Dr. Basavaraj H (HOD)",
+    "⚡ **Electrical Engineering** - Dr. Ramesh Babu (HOD)",
+    "🧪 **Chemical Engineering** - Dr. Sunil Kumar (HOD)",
+    "🔬 **Biotechnology** - Dr. Anitha R (HOD)"
+  ],
+
+  "qa_pairs": [
+    {
+      "question": "what is the admission process for BE",
+      "answer": "**BE Admission Process:**\n1. Appear for KCET/COMEDK exam\n2. Apply through KEA counseling\n3. Document verification\n4. Seat allotment\n5. Fee payment and registration",
+      "keywords": ["admission", "BE", "process", "apply"],
+      "category": "admissions"
+    },
+    {
+      "question": "what is the fee structure for MCA",
+      "answer": "**MCA Fee Structure:**\n• Total fee: ₹1,17,000 - ₹1,70,000 for 2 years\n• Semester fee: ₹58,500 - ₹85,000\n• Includes tuition, library, lab fees\n• Hostel fee additional: ₹40,000/year",
+      "keywords": ["fee", "MCA", "cost", "tuition"],
+      "category": "fees"
+    },
+    {
+      "question": "which companies visit for placements",
+      "answer": "**Top Recruiting Companies:**\n• **IT Services**: Infosys, TCS, Wipro, Accenture, Capgemini\n• **Core Companies**: Bosch, L&T, Toyota, Siemens\n• **Product Based**: Microsoft, Oracle, Amazon\n• **Startups**: Multiple tech startups",
+      "keywords": ["placement", "companies", "recruiters", "jobs"],
+      "category": "placements"
+    },
+    {
+      "question": "what facilities are available in hostel",
+      "answer": "**Hostel Facilities:**\n• Separate boys and girls hostels\n• WiFi connectivity throughout\n• Vegetarian mess with hygienic food\n• Recreation room with TV\n• 24/7 security and CCTV\n• Laundry services\n• Common study rooms",
+      "keywords": ["hostel", "facilities", "accommodation", "stay"],
+      "category": "facilities"
+    },
+    {
+      "question": "how is the computer science department",
+      "answer": "**CSE Department Highlights:**\n• NBA accredited program\n• Experienced faculty with PhDs\n• Well-equipped labs: Programming, Networking, AI/ML\n• Industry collaborations with IT companies\n• Regular workshops and hackathons\n• 95% placement record",
+      "keywords": ["CSE", "computer science", "department", "faculty"],
+      "category": "departments"
+    },
+    {
+      "question": "what is the eligibility for MCA",
+      "answer": "**MCA Eligibility Criteria:**\n• Bachelor's degree with 50% marks (45% for SC/ST)\n• Mathematics in 10+2 or graduation\n• Valid PGCET score (Karnataka students)\n• KMAT score (non-Karnataka students)\n• Duration: 2 years (4 semesters)",
+      "keywords": ["MCA", "eligibility", "qualification", "criteria"],
+      "category": "admissions"
+    },
+    {
+      "question": "when does academic year start",
+      "answer": "**Academic Calendar:**\n• **UG Programs**: August to May\n• **PG Programs**: July to April\n• **Semester 1**: August - December\n• **Semester 2**: January - May\n• **Summer Vacation**: June - July",
+      "keywords": ["academic", "year", "semester", "schedule"],
+      "category": "general"
+    },
+    {
+      "question": "is there scholarship available",
+      "answer": "**Scholarship Schemes:**\n• Government scholarships (SC/ST/OBC)\n• Merit scholarships for top rankers\n• Fee concession for economically weak\n• Sports quota scholarships\n• Single girl child scholarship\n• Contact admission office for details",
+      "keywords": ["scholarship", "financial aid", "fee concession"],
+      "category": "fees"
+    },
+    {
+      "question": "what are the library timings",
+      "answer": "**Library Timings:**\n• **Monday-Friday**: 8:00 AM - 8:00 PM\n• **Saturday**: 8:00 AM - 6:00 PM\n• **Sunday**: 9:00 AM - 5:00 PM\n• **Digital Library**: 24/7 access\n• **Holidays**: As per institute calendar",
+      "keywords": ["library", "timings", "hours", "study"],
+      "category": "facilities"
+    }
+  ],
+
+  "greetings": [
+    "Hello! I'm BIET Assistant. How can I help you today? 🎓",
+    "Namaste! Welcome to BIET Chatbot. Ask me about admissions, courses, fees, or placements!",
+    "Hi there! I'm here to provide information about Bapuji Institute. What would you like to know?",
+    "Welcome! I can assist with college information, admission queries, and student services. How can I help?"
+  ],
+
+  "fallback_responses": [
+    "I'm not sure about that. Could you please rephrase your question?",
+    "I'm still learning about that topic. Try asking about admissions, courses, or fees!",
+    "I don't have information about that yet. You might want to contact the administration office.",
+    "That's an interesting question! Currently I can help with academic information, admissions, and campus facilities."
+  ]
+}
